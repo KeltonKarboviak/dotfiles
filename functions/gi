@@ -1,0 +1,10 @@
+#!/bin/sh
+#
+# Usage: gi <language/OS/IDE>[,<...>]*
+# Example: gi linux,python,pycharm
+# Description: downloads a gitignore file from gitignore.io for the specified
+#   language/OS/IDE.
+gi() {
+    curl -L -s https://www.gitignore.io/api/\$@;
+}
+

@@ -1,0 +1,69 @@
+{
+  "dependencies": {
+    "gulp": {
+      "version": "3.9.1",
+      "from": "gulp@latest",
+      "resolved": "https://registry.npmjs.org/gulp/-/gulp-3.9.1.tgz"
+    },
+    "hpm-cli": {
+      "version": "2.0.1",
+      "from": "hpm-cli",
+      "resolved": "https://registry.npmjs.org/hpm-cli/-/hpm-cli-2.0.1.tgz"
+    },
+    "jsonresume-theme-ace": {
+      "version": "1.0.7",
+      "from": "jsonresume-theme-ace@latest",
+      "resolved": "https://registry.npmjs.org/jsonresume-theme-ace/-/jsonresume-theme-ace-1.0.7.tgz"
+    },
+    "jsonresume-theme-elegant": {
+      "version": "1.11.2",
+      "from": "jsonresume-theme-elegant@1.11.2",
+      "resolved": "https://registry.npmjs.org/jsonresume-theme-elegant/-/jsonresume-theme-elegant-1.11.2.tgz"
+    },
+    "jsonresume-theme-kendall-fix": {
+      "version": "0.1.10",
+      "from": "jsonresume-theme-kendall-fix@latest",
+      "resolved": "https://registry.npmjs.org/jsonresume-theme-kendall-fix/-/jsonresume-theme-kendall-fix-0.1.10.tgz"
+    },
+    "jsonresume-theme-onepage": {
+      "version": "0.0.3",
+      "from": "jsonresume-theme-onepage@latest",
+      "resolved": "https://registry.npmjs.org/jsonresume-theme-onepage/-/jsonresume-theme-onepage-0.0.3.tgz"
+    },
+    "jsonresume-theme-refined": {
+      "version": "0.0.3",
+      "from": "jsonresume-theme-refined@latest",
+      "resolved": "https://registry.npmjs.org/jsonresume-theme-refined/-/jsonresume-theme-refined-0.0.3.tgz"
+    },
+    "jsonresume-theme-spartan": {
+      "version": "0.2.1",
+      "from": "jsonresume-theme-spartan@latest",
+      "resolved": "https://registry.npmjs.org/jsonresume-theme-spartan/-/jsonresume-theme-spartan-0.2.1.tgz"
+    },
+    "jsonresume-theme-spartan-skills": {
+      "version": "0.0.4",
+      "from": "jsonresume-theme-spartan-skills@latest",
+      "resolved": "https://registry.npmjs.org/jsonresume-theme-spartan-skills/-/jsonresume-theme-spartan-skills-0.0.4.tgz"
+    },
+    "jsonresume-theme-timeline-fixed": {
+      "version": "0.0.9",
+      "from": "jsonresume-theme-timeline-fixed@latest",
+      "resolved": "https://registry.npmjs.org/jsonresume-theme-timeline-fixed/-/jsonresume-theme-timeline-fixed-0.0.9.tgz"
+    },
+    "npm": {
+      "version": "5.6.0",
+      "from": "npm",
+      "resolved": "https://registry.npmjs.org/npm/-/npm-5.6.0.tgz"
+    },
+    "resume-cli": {
+      "version": "0.4.19",
+      "from": "resume-cli@latest",
+      "resolved": "https://registry.npmjs.org/resume-cli/-/resume-cli-0.4.19.tgz"
+    },
+    "tldr": {
+      "version": "3.1.0",
+      "from": "tldr",
+      "resolved": "https://registry.npmjs.org/tldr/-/tldr-3.1.0.tgz"
+    }
+  }
+}
